@@ -34,19 +34,19 @@ description: >-
    * **发展的规划**
    * **进程管理**
 8. **编程契约**
-   * **命名约定**[**编程规约**](bian-cheng-gui-yue.md#ming-ming-yue-ding)\*\*\*\*
-   * **编码约定**[**编程规约**](bian-cheng-gui-yue.md#bian-ma-yue-ding)\*\*\*\*
-   * **日志约定**[**编程规约**](bian-cheng-gui-yue.md#ri-zhi-yue-ding)\*\*\*\*
-   * **异常约定**[**编程规约**](bian-cheng-gui-yue.md#yi-chang-yue-ding)\*\*\*\*
+   * **命名约定**[**编程规约**](bian-cheng-gui-yue.md#ming-ming-yue-ding)
+   * **编码约定**[**编程规约**](bian-cheng-gui-yue.md#bian-ma-yue-ding)
+   * **日志约定**[**编程规约**](bian-cheng-gui-yue.md#ri-zhi-yue-ding)
+   * **异常约定**[**编程规约**](bian-cheng-gui-yue.md#yi-chang-yue-ding)
 9. **设计原则**
-   * **开闭原则** [**设计原则**](she-ji-yuan-ze/#yi-kai-bi-yuan-ze)\*\*\*\*
-   * **单一职责原则**[**设计原则**](she-ji-yuan-ze/#er-dan-yi-zhi-ze-yuan-ze)\*\*\*\*
-   * **里氏替换原则**[**设计原则**](she-ji-yuan-ze/#san-li-shi-ti-huan-yuan-ze)\*\*\*\*
-   * **依赖倒置原则**[**设计原则**](she-ji-yuan-ze/#si-yi-lai-dao-zhi-yuan-ze)\*\*\*\*
-   * **接口隔离原则**[**设计原则**](she-ji-yuan-ze/#wu-jie-kou-ge-li-yuan-ze)\*\*\*\*
-   * **迪米特法则**[**设计原则**](she-ji-yuan-ze/#liu-mi-te-fa-ze)\*\*\*\*
+   * **开闭原则** [**设计原则**](she-ji-yuan-ze/#yi-kai-bi-yuan-ze)
+   * **单一职责原则**[**设计原则**](she-ji-yuan-ze/#er-dan-yi-zhi-ze-yuan-ze)
+   * **里氏替换原则**[**设计原则**](she-ji-yuan-ze/#san-li-shi-ti-huan-yuan-ze)
+   * **依赖倒置原则**[**设计原则**](she-ji-yuan-ze/#si-yi-lai-dao-zhi-yuan-ze)
+   * **接口隔离原则**[**设计原则**](she-ji-yuan-ze/#wu-jie-kou-ge-li-yuan-ze)
+   * **迪米特法则**[**设计原则**](she-ji-yuan-ze/#liu-mi-te-fa-ze)
 10. **设计模式**
-11. **程序猿的自我修炼**[**程序猿的自我修炼**](cheng-xu-yuan-de-zi-wo-xiu-lian.md)\*\*\*\*
+11. **程序猿的自我修炼**[**程序猿的自我修炼**](cheng-xu-yuan-de-zi-wo-xiu-lian.md)
 
-\*\*\*\*
+
 
