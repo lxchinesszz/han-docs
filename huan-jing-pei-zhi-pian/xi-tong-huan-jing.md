@@ -20,3 +20,17 @@ public interface Environment{
 
 
 
+**系统环境**
+
+* 服务器环境
+
+```text
+System.getenv();
+```
+
+* Jvm运行环境
+
+```text
+System.getenv();
+```
+
